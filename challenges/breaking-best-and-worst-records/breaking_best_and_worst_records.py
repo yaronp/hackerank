@@ -3,7 +3,7 @@
 import sys
 
 
-def get_record(n,s):
+def get_record(n, s):
     return s
 
 if __name__ == '__main__':
